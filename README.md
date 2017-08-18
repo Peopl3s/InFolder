@@ -1,0 +1,2 @@
+# InFolder
+SingleSelection files manager
